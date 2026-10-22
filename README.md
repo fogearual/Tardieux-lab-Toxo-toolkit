@@ -9,12 +9,12 @@ Plugins ▸ Toxo Toolkit ▸ Count and Colocalise
                        ▸ Smart Time Stamper
 ```
 
-| Tool | What it does | Type | Documentation |
+| Tool | What it does | Type |
 |---|---|---|---|
-| **Count and Colocalise** | Counting of host nuclei, parasites and double-labelled parasites on whole folders of images (CZI, ND, LIF, ND2, TIFF...), with annotated QC stacks, CSV files, an Excel workbook and histograms; Can also make Z projections, merges and TIFF copies of any files for easier automated handling of whole folders. | Macro (`.ijm`) | [How to use/count-and-colocalise.md](How to use/count-and-colocalise.md) |
-| **Drift Correction** | Removes the drift of a movie by following a fixed object you outline (bead, debris, landmark), then crops the movie to the area present in every frame. Automatic, semi-automatic (recommended) or manual tracking, calibration on random frames, review before applying. | Java plugin (`.jar`) | [How to use/drift-correction.md](How to use/drift-correction.md) |
-| **Object Velocity** | Speed of objects you point by hand on a movie (beads, parasites...): one track per object, speed along the track, straight-line speed, step speeds, straightness. | Macro (`.ijm`) | [How to use/object-velocity.md](How to use/object-velocity.md) |
-| **Smart Time Stamper** | Writes the real time on every frame of a movie from each frame's original number, so that a substack of non-consecutive frames gets the right times. | Macro (`.ijm`) | [How to use/smart-time-stamper.md](How to use/smart-time-stamper.md) |
+| **Count and Colocalise** | Counting of host nuclei, parasites and double-labelled parasites on whole folders of images (CZI, ND, LIF, ND2, TIFF...), with annotated QC stacks, CSV files, an Excel workbook and histograms; Can also make Z projections, merges and TIFF copies of any files for easier automated handling of whole folders. | Macro (`.ijm`) |
+| **Drift Correction** | Removes the drift of a movie by following a fixed object you outline (bead, debris, landmark), then crops the movie to the area present in every frame. Automatic, semi-automatic (recommended) or manual tracking, calibration on random frames, review before applying. | Java plugin (`.jar`) |
+| **Object Velocity** | Speed of objects you point by hand on a movie (beads, parasites...): one track per object, speed along the track, straight-line speed, step speeds, straightness. | Macro (`.ijm`) |
+| **Smart Time Stamper** | Writes the real time on every frame of a movie from each frame's original number, so that a substack of non-consecutive frames gets the right times. | Macro (`.ijm`) |
 
 ## Installation
 
