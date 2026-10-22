@@ -10,7 +10,7 @@ Plugins ▸ Toxo Toolkit ▸ Count and Colocalise
 ```
 
 | Tool | What it does | Type |
-|---|---|---|---|
+|---|---|---|
 | **Count and Colocalise** | Counting of host nuclei, parasites and double-labelled parasites on whole folders of images (CZI, ND, LIF, ND2, TIFF...), with annotated QC stacks, CSV files, an Excel workbook and histograms; Can also make Z projections, merges and TIFF copies of any files for easier automated handling of whole folders. | Macro (`.ijm`) |
 | **Drift Correction** | Removes the drift of a movie by following a fixed object you outline (bead, debris, landmark), then crops the movie to the area present in every frame. Automatic, semi-automatic (recommended) or manual tracking, calibration on random frames, review before applying. | Java plugin (`.jar`) |
 | **Object Velocity** | Speed of objects you point by hand on a movie (beads, parasites...): one track per object, speed along the track, straight-line speed, step speeds, straightness. | Macro (`.ijm`) |
