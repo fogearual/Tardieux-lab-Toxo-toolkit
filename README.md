@@ -32,15 +32,15 @@ Count and Colocalise needs Bio-Formats (included in Fiji) for the files it does 
 ## Repository layout
 
 ```
-Toxo Toolkit/                    the folder to copy into Fiji.app/plugins/
+Toxo Toolkit/ = the folder to copy into Fiji.app/plugins/
     Count_and_Colocalise.ijm
     Drift_Correction.jar
     Object_Velocity.ijm
     Smart_Time_Stamper.ijm
-Source-codes/            source code of Drift_Correction.jar
+Source-codes/ = source code of Drift_Correction.jar
     Drift_Correction.java
     plugins.config
-How to use/                            one page per tool: every parameter, every output, what the code does
+How to use/ = one page per tool: every parameter, every output, what the code does
 ```
 
 The macros are their own source code: open them in Fiji (*File ▸ Open*) or any text editor. Each one
