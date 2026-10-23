@@ -43,9 +43,6 @@ Source-codes/ = source code of Drift_Correction.jar
 How to use/ = one page per tool: every parameter, every output, what the code does
 ```
 
-The macros are their own source code: open them in Fiji (*File ▸ Open*) or any text editor. Each one
-starts with a commented header that sums up what it does.
-
 ## Settings that are remembered
 
 Every tool remembers its last settings between runs (ImageJ preferences). Count and Colocalise also
